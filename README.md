@@ -34,4 +34,3 @@ Ao terminar o desafio, você pode sair do ambiente criado com o comando `deactiv
 ## Detalhes
 
 Os detalhes estão em comentários no arquivo _main.py_
-# aceleradev-python
